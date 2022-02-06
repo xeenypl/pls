@@ -5,7 +5,7 @@
 int main (int argc, char **argv) {
     struct passwd *u = getpwnam("root");
     if (argc < 2) {
-        fputs("usage: pls [comand]\n", stderr);
+        fputs("usage: pls [command]\n", stderr);
         return 1;
     }
     if (setuid(u -> pw_uid) < 0) {

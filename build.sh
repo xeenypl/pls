@@ -1,4 +1,4 @@
 #!/bin/sh
 
 set -ex
-cc -O3 pls.c -o pls
+cc -O3 pls.c -o pls -lcrypt

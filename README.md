@@ -14,4 +14,4 @@ and then I thought, I can do better than that.
 - Depends on pretty match nothing (only libc, and crypt).
 - Has no confing file (like suckless tools).
 - Is more suckless.
-- Is mote uinx (do one thing and do it very well).
+- Is more uinx (do one thing and do it very well).

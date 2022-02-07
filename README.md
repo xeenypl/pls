@@ -3,7 +3,7 @@ Minimalistic sudo/doas replacement.
 
 # How to use:
 - Create groupe `pls`.
-- Run `install.sh` (as a root)
+- Run `make install` (as a root)
 - Add your user to groupe `pls`(you may need to restat your system after this).
 - And you ready to go
 

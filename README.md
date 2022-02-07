@@ -2,8 +2,10 @@
 Minimalistic sudo/doas replacement.
 
 # How to use:
-Run `install.sh` (as a root) add your user to groupe `pls` and you ready to go
-(you may need to restat your system).
+- Create groupe `pls`.
+- Run `install.sh` (as a root)
+- Add your user to groupe `pls`(you may need to restat your system after this).
+- And you ready to go
 
 # Why?
 I was watching a [Brodie Robertson video](https://www.youtube.com/watch?v=7abih61ht-I)
